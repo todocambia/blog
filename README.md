@@ -1,2 +1,2 @@
 # blog
-My very first blog, bitch!
+A spark can light a fire
